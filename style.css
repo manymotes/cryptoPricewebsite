@@ -1,0 +1,10 @@
+body {
+    background-image: url("numbersBackground.jpg");
+    background-repeat: no-repeat;
+}
+
+div
+{
+    font-size: 50px;
+    text-align: center;
+}
